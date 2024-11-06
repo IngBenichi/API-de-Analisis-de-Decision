@@ -1,5 +1,3 @@
-Aquí tienes el Markdown documentado del código y una explicación de los endpoints para tu aplicación en FastAPI.
-
 ---
 
 # API de Análisis de Decisión
